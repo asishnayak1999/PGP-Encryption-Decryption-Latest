@@ -1,6 +1,26 @@
-# PGP-Encryption-Decryption-Latest
-This is application demonstrating PGP encryption decryption using latest dependencies , CREATION DATE AUG 2024
+# PGP Encryption and Decryption Tool
 
-1. KEYS CAN BE GENERATED USING THIS SITE https://pgpkeygen.com/
-2.GIVE THE DETAILS LIKE NAME, EMAIL, ALGo (in my case RSA), KEYS SIZE(in my case 1024), EXPIRY (in my case NEVER), and the passPhrase(in my case 1234567890)
-3.attached some sample keys in the keys folder , try to add that in D drive and run
+This application demonstrates PGP encryption and decryption using the latest dependencies. 
+
+**Creation Date: August 2024**
+
+## Getting Started
+
+### Generating Keys
+
+1. Visit [PGP Key Generator](https://pgpkeygen.com/) to generate your keys.
+2. Enter the following details:
+   - **Name**: Your name
+   - **Email**: Your email address
+   - **Algorithm**: RSA (or your preferred algorithm)
+   - **Key Size**: 1024 bits (or your preferred size)
+   - **Expiry**: Never (or a specific expiry date if preferred)
+   - **Passphrase**: A secure passphrase (e.g., `1234567890`)
+
+### Using Sample Keys
+
+1. Download or copy the sample keys provided in the `keys` folder.
+2. Place the keys in the `D` drive of your system.
+3. Run the application to start using the keys.
+
+For further instructions or troubleshooting, please refer to the application's documentation or contact support.
