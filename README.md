@@ -23,4 +23,9 @@ This application demonstrates PGP encryption and decryption using the latest dep
 2. Place the keys in the `D` drive of your system.
 3. Run the application to start using the keys.
 
+CULR FOR THE APPLICATION
+
+curl --location 'http://localhost:8080/pgp-encrypt/pgp/fileencryption/process' \
+--form 'file=@"/C:/Users/asish/Downloads/TEST_FILE.pgp"'
+
 For further instructions or troubleshooting, please refer to the application's documentation or contact support.
