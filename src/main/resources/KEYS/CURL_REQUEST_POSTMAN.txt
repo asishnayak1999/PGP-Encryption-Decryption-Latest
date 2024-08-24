@@ -1,0 +1,2 @@
+curl --location 'http://localhost:8080/pgp-encrypt/pgp/fileencryption/process' \
+--form 'file=@"/C:/Users/asish/Downloads/TEST_FILE.pgp"'
